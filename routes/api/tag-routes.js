@@ -1,3 +1,4 @@
+
 const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
 
@@ -9,7 +10,7 @@ router.get('/', async (req, res) => {
   try {
     const allTags = await Tag.findAll({
       include: [{ model: Product }],
-      attributes: ['id', 'tag_name'],
+      // attributes: ['id', 'tag_name'],
     });
     res.status(200).json(allTags)
   } 

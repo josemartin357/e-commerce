@@ -1,5 +1,5 @@
+// TESTED; EVERYTHING WORKS
 const router = require('express').Router();
-const { includes } = require('lodash');
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
