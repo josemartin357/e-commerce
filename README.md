@@ -21,6 +21,15 @@ Part 2:
 
 https://user-images.githubusercontent.com/83382332/140622415-bff851c0-9ebf-4ba3-81c3-dc9bb15a5e86.mov
 
+Part 3:
+<br>
+Sample of loading db and seeds; and tags routed "GET", "PUT" and "DELETE" demo.
+
+
+https://user-images.githubusercontent.com/83382332/142776960-3f58a8a8-9d39-4416-925b-66b1fd8cb08a.mp4
+
+
+
 
 ## Table of Contents
 * [Installation](#installation)
